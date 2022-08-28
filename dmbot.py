@@ -1,3 +1,8 @@
+#If you want to run this bot on your computer, download the choromedriver.exe file and put it in the same folder.
+#botu bilgisayarınızda çalıştırabilmek için choromedriver.exe dosyasını indirip aynı klasöre atmanız gerekiyor.
+
+
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time, random
